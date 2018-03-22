@@ -1,1 +1,1 @@
-Example works of Unity3D projects, mostly systems and components. Feel free to review, learn and share.
+Example works of in C#, mostly systems and components from my Unity3D projects. Feel free to review, learn and share.
